@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="842fab69-f7e8-4202-8249-5cde961c9834" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/haar_cascade_frontal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/finger_actions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/finger_actions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="842fab69-f7e8-4202-8249-5cde961c9834" name="Default Changelist" comment="better code, more comments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="release" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -103,6 +101,21 @@
       <updated>1653684124685</updated>
       <workItem from="1654215935725" duration="1521000" />
     </task>
+    <task id="LOCAL-00001" summary="populate opencv_test.py">
+      <created>1654269954378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654269954378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="better code, more comments">
+      <created>1654270098387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654270098387</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,14 +126,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/finger_actions$facial_recognition.coverage" NAME="facial_recognition Coverage Results" MODIFIED="1654216234723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="populate opencv_test.py" />
+    <MESSAGE value="better code, more comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="better code, more comments" />
   </component>
 </project>
